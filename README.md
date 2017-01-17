@@ -2,5 +2,5 @@
 
 Generate the simulation path of victim at sea.
 
-![image](https://github.com/ntugigolo/Search-and-Rescue/edit/master/Picture/Architecture.png)
+[image](https://github.com/ntugigolo/Search-and-Rescue/edit/master/Picture/Architecture.png)
 
