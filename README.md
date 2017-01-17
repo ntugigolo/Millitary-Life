@@ -12,17 +12,17 @@
 6.	Grid: Implement data structure.
 7.	Number: Numerical processing.
 
-[image](https://github.com/ntugigolo/Search-and-Rescue/edit/master/Picture/Architecture.png)
+![screenshot](https://github.com/ntugigolo/Search-and-Rescue/edit/master/Picture/Architecture.png)
 
 The above picture shows the architecture of SAR program. 
 The single solid line represents command, triple solid line represents single-directional data transportation, double dotted line represents mutual directional data transportation.
 
-[image](https://github.com/ntugigolo/Search-and-Rescue/edit/master/Picture/Current_Wund_Map.png)
+![screenshot](https://github.com/ntugigolo/Search-and-Rescue/edit/master/Picture/Current_Wund_Map.png)
 
 The above picture shows the architecture of CurrentMap and WindMap class. 
 The single solid line represents command, triple solid line represents single-directional data transportation, double dotted line represents mutual directional data transportation.
 
-[image](https://github.com/ntugigolo/Search-and-Rescue/edit/master/Picture/Pathgenerator.png)
+![screenshot](https://github.com/ntugigolo/Search-and-Rescue/edit/master/Picture/Pathgenerator.png)
 
 The above picture shows the architecture of PathGenerator class. 
 The single solid line represents command, triple solid line represents single-directional data transportation, double dotted line represents mutual directional data transportation.
