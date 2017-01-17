@@ -1,8 +1,8 @@
 # Search-and-Rescue
 
-Generate the simulation path of victim at sea.
+## Generate the simulation path of victim at sea.
 
-SAR is the computing program which will generate the simulation result. It composed by seven classes. These classes and their corresponding function are:
+### SAR is the computing program which will generate the simulation result. It composed by seven classes. These classes and their corresponding function are:
 
 1.	PathGenerator: Implement the algorithm for path simulation.
 2.	CurrentMap: Implement the algorithm for path simulation.
