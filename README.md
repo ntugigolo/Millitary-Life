@@ -17,12 +17,12 @@
 The above picture shows the architecture of SAR program. 
 The single solid line represents command, triple solid line represents single-directional data transportation, double dotted line represents mutual directional data transportation.
 
-![Picture](https://github.com/ntugigolo/Search-and-Rescue/edit/master/Picture/Current_Wund_Map.png)
+![Picture](https://github.com/ntugigolo/Search-and-Rescue/raw/master/Picture/Current_Wund_Map.png)
 
 The above picture shows the architecture of CurrentMap and WindMap class. 
 The single solid line represents command, triple solid line represents single-directional data transportation, double dotted line represents mutual directional data transportation.
 
-![Picture](https://github.com/ntugigolo/Search-and-Rescue/edit/master/Picture/Pathgenerator.png)
+![Picture](https://github.com/ntugigolo/Search-and-Rescue/raw/master/Picture/Pathgenerator.png)
 
 The above picture shows the architecture of PathGenerator class. 
 The single solid line represents command, triple solid line represents single-directional data transportation, double dotted line represents mutual directional data transportation.
